@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Open",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-02-12T11:29:41.486538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Open Water",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Open_Water_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Open Water",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Open_Water_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreaming with My Eyes Open",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/03_Dreaming_with_My_Eyes_Open_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honey (Open That Door)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/04_Honey_(Open_That_Door)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honey (Open That Door) (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/05_Honey_(Open_That_Door)_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Arms Stay Open All Night",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/06_My_Arms_Stay_Open_All_Night_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Open Up Your Heart",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/07_Open_Up_Your_Heart_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Open the Gate",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/08_Open_the_Gate_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Door Is Always Open",
+      "artist": "Dave & Sugar",
+      "has_synced": true,
+      "path": "select/09_The_Door_Is_Always_Open_Dave_&_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wide Open Spaces",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/10_Wide_Open_Spaces_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wide Open Spaces (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/11_Wide_Open_Spaces_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wide Open Spaces (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": false,
+      "path": "select/12_Wide_Open_Spaces_(Album_Version)_The_Chicks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Your Eyes Open",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/13_Your_Eyes_Open_Keane.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Open Your Eyes and Look North",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/14_Open_Your_Eyes_and_Look_North_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "OPEN THE DOOR",
+      "artist": "Die Antwoord feat. Panther Modern",
+      "has_synced": true,
+      "path": "select/15_OPEN_THE_DOOR_Die_Antwoord_feat._Panther_Modern.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Open",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_Open_メガテラ・ゼロ.txt"
+    }
+  ]
+}
